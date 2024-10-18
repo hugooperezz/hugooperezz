@@ -45,7 +45,7 @@
 
 <hr>
 
-Cuidado se me han colado unos pajaros [🦜 parrots](https://cultofthepartyparrot.com):
+<h3 align="left">Cuidado se me han colado unos pocos pajaros:</h3>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
